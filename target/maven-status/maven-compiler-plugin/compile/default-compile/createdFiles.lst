@@ -1,0 +1,7 @@
+conderfix\cfastrologer\ArchaeologistPlugin.class
+conderfix\cfastrologer\utils\HexUtil.class
+conderfix\cfastrologer\gui\MenuArchaeologist.class
+conderfix\cfastrologer\utils\ConfigUtil.class
+conderfix\cfastrologer\utils\TypeRarities.class
+conderfix\cfastrologer\commands\ArchaeologistCommmand.class
+conderfix\cfastrologer\utils\Storage.class
